@@ -1,4 +1,6 @@
-![image](https://www.codewars.com/users/Antrofe/badges/large)
+[![Codewars](https://www.codewars.com/users/Antrofe/badges/large)](https://www.codewars.com/users/Antrofe/completed_solutions)
+Click on my Codewars badge to see my solutions to Codewars Kata.
+
 
 - 👋 Hi, I’m @Antrofe
 - 👀 I’m interested in programming to automate research data analysis
